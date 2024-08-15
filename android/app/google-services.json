@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304327882507",
+    "project_id": "carrentalapp-daf06",
+    "storage_bucket": "carrentalapp-daf06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304327882507:android:4ef207accf4003f257940e",
+        "android_client_info": {
+          "package_name": "carrental.org.np"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftKvJLldQvZfgQR3lP_23UKxmSzOCwGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
