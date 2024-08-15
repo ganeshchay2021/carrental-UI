@@ -1,6 +1,6 @@
 # carrental
 
-A new Flutter project.
+This project only focused for UI Part. 
 
 ## Getting Started
 
